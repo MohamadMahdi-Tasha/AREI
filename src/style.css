@@ -6,6 +6,7 @@
 button {cursor: pointer;}
 a {text-decoration: none;}
 ul {list-style: none;}
+img {pointer-events: none;}
 
 * {
     padding: 0;
@@ -54,3 +55,8 @@ ul {list-style: none;}
 .rotate-minus-90 {transform: rotate(-90deg);}
 .br-1-light-black {border-right: 1px solid #D1D6E0;}
 .mb-4 {margin-bottom: 4rem;}
+.p-l-r-3-t-b-1 {padding: 1rem 3rem 1rem 3rem;}
+.bb-1-black {border-bottom: 1px solid black;}
+.c-black {color: black;}
+.td-center {text-decoration: underline;}
+.td-none {text-decoration: none;}
