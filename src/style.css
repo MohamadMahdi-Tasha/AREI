@@ -1,0 +1,14 @@
+/*Codes By Mahdi Tasha*/
+/*Variables*/
+:root {--dark: #2B2B35;}
+
+/*Default Styles*/
+button {cursor: pointer;}
+a {text-decoration: none;}
+ul {list-style: none;}
+* {
+    padding: 0;
+    margin: 0;
+    font-family: 'Lexend Deca', sans-serif;
+    box-sizing: border-box;
+}
