@@ -1,6 +1,9 @@
 /*Codes By Mahdi Tasha*/
 /*Variables*/
-:root {--dark: #2B2B35;}
+:root {
+    --dark: #2B2B35;
+    --red: #D93A31;
+}
 
 /*Default Styles*/
 button {cursor: pointer;}
@@ -60,3 +63,15 @@ img {pointer-events: none;}
 .c-black {color: black;}
 .td-center {text-decoration: underline;}
 .td-none {text-decoration: none;}
+.fs-100px {font-size: 100px;}
+.mb-1 {margin-bottom: 1rem;}
+.letter-spacing {letter-spacing: 0.02rem;}
+.fw-normal {font-weight: normal;}
+.ml-minus-1-dot-5 {margin-left: -1.5rem;}
+.bg-pink {background-color: #FFE7E6;}
+.c-red {color: var(--red);}
+.bg-red {background-color: var(--red);}
+.cur-p {cursor: pointer;}
+.c-white {color: white;}
+.hover-bg-darker-red:hover {background-color: #b63029;}
+.mb-dot-5 {margin-bottom: .5rem;}
